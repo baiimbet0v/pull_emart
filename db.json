@@ -1,0 +1,21 @@
+
+{
+"beards": [
+    {
+        "image": "bread_1.webp",
+        "article": "Хлеб цельнозерновой ",
+        "barcode": "barcode.gif"
+    },
+     {
+        "image": "bread_1.webp",
+        "article": "Хлеб цельнозерновой 1",
+        "barcode": "barcode.gif"
+    },
+     {
+        "image": "bread_1.webp",
+        "article": "Хлеб цельнозерновой 2",
+        "barcode": "barcode.gif"
+    }
+
+]
+}
